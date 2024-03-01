@@ -38,6 +38,4 @@ Looking ahead, we aim to:
 
 Techwizz.ai is more than just an app; it's a step towards a future where learning technology is as dynamic and exciting as the field itself. Stay tuned for more updates and advancements!
 
----
 
-For further information and updates, please visit our [Techwizz.ai GitHub repository](#).
